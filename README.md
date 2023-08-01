@@ -11,4 +11,4 @@ Storage- Pinata(IPFS) - Decenterazlied storage
 
 Dapp Link = https://r-s.vercel.app/
 
-video Walkthrough =
+Video Walkthrough = https://www.youtube.com/watch?v=mD998O3wGBw
