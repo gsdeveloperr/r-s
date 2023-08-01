@@ -6,7 +6,7 @@ it is a decentralized Store where users can buy their items online.
 ```
 Tech Stack:
 
-API - Alchemy
+API - Alchemy.
 
 Backend-  Smart Contracts (evm), Hardhat , Polygon mumbai
 
