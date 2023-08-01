@@ -10,7 +10,7 @@ API - Alchemy.
 
 Backend-  Smart Contracts (evm), Hardhat , Polygon mumbai
 
-Frontend- Next-js, Css
+Frontend- Next-js, Css, Ether-js
 
 Storage- Pinata(IPFS) - (Images)
 
